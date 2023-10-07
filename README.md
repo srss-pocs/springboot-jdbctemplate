@@ -18,3 +18,6 @@ POST
 }
 
 http://localhost:8080/api/tutorials : GET
+
+
+![image](https://github.com/srss-pocs/springboot-jdbctemplate/assets/145287517/56bafc62-ce04-44cd-ac00-1550d496e781)
