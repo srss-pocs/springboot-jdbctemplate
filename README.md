@@ -1,6 +1,8 @@
 Spring Boot 3.1.4
 A Simple Spring Boot Jdbc Template Example
 
+Execute the ddl script from resource folder
+
 APIs
 http://localhost:8080/api/tutorials
 POST
